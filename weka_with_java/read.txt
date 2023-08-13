@@ -1,1 +1,3 @@
 using weka library in java for APriori Algorithmn and for FPGrowth Algorithmn
+
+libraries - >  right click -> add JAR/Folders -> add weka.jar file 
